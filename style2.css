@@ -167,7 +167,7 @@ nav #center-menu li a:hover {
   position: relative;
   width: 100%;
   height: 500px;
-  background-image: url("./cover_imgs/img1.JPG");
+  background-image: url("./cover_imgs/img1.jpg");
   background-size: cover;
   background-position: center;
   color: black;
